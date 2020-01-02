@@ -30,4 +30,8 @@ class HomeController extends Controller
     {
         return 0;
     }
+
+    public function test2(){
+        return abc;
+    }
 }
