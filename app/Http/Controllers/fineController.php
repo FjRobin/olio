@@ -13,7 +13,7 @@ class fineController extends Controller
      */
     public function index()
     {
-        //
+        return 0;
     }
 
     /**
